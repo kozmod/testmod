@@ -7,6 +7,6 @@ func Hi(name string) string {
    return fmt.Sprintf("Hi, %s", name)
 }
 
-//func Hi2(name string) string {
-//   return fmt.Sprintf("Hi2, %s", name)
-//}
+func Hi2(name string) string {
+  return fmt.Sprintf("Hi2, %s", name)
+}
